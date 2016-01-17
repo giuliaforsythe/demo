@@ -1,2 +1,2 @@
-View the file at https://github.com/giuliaforsythe/demo
+View the file at http://giuliaforsythe.github.io/demo
 
